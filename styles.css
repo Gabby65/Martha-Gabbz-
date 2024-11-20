@@ -1,0 +1,30 @@
+/* Custom styles for professional appearance */
+body {
+    font-family: Arial, sans-serif;
+    background-image: url(download\ \(2\).jpeg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 100vh;
+    margin: 0;
+}
+
+header .navbar-brand img {
+    border-radius: 50%;
+}
+
+.card-title {
+    font-size: 1.25rem;
+    color: #333;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    margin-top: auto;
+    display: flex;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
